@@ -1,10 +1,10 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "notes": "Windows Preview: native build and tests passed. Docker Desktop conversion and updater installation still need a Windows smoke test.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/iOSDevSK/html2wp-desktop-releases/releases/download/v1.0.17/html2wp_1.0.17_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaCtKV20rc1BqblZWOTdQM2FWaFdXd1VJMDVMOC9vMWFMVHgxNWZ4bHgyTDN1ZEpKQnJLeGpwS0lrUzB2ZER3VzhXTEtqeWs0UXgySnZXU0ZFUWdNVlNiU0JtdzhHMkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTExMjcyCWZpbGU6aHRtbDJ3cF8xLjAuMTdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xNworYUpkZzhkang3Nis4bnV6a0ZqL2Jyb1g3R05LRk9QNExUemJLZTNMdVBBekN0MGtGOHdlRHpTdllXdHVPMkxHM01NRk54WFFDcEs0TkZMdzRXM3dCQT09Cg=="
+      "url": "https://github.com/iOSDevSK/html2wp-desktop-releases/releases/download/v1.0.18/html2wp_1.0.18_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaCtKV20rc1BqblMwNTlDMjh5QnY0ZkRYZHY5Qno2SnBvK2JJMzkrMUZRdXNwUnljVlZnU3Fzc1cvMklWb3FYelpDUlMrSjFxT2w4NGdpYWJlOGtMbTFkcUZrSkowVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTc4NjEyCWZpbGU6aHRtbDJ3cF8xLjAuMThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xOApCQlhybUJUWW93THFNZVlZMkZJZE1MQU1iaTAyMFlNbE9qK29zZjgxOU1oaUdSWkVDWURmcEpUU3pkSlFrR2JqQ045Yzg1cGJMSmFNT1hHbTVOQmlBZz09Cg=="
     }
   }
 }
