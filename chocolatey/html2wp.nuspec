@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>html2wp</id>
+    <version>1.0.22</version>
+    <packageSourceUrl>https://github.com/iOSDevSK/html2wp-desktop-releases/tree/main/chocolatey</packageSourceUrl>
+    <owners>CHOCOLATEY_USERNAME</owners>
+    <title>html2wp</title>
+    <authors>BELNEM s.r.o.</authors>
+    <projectUrl>https://html2wp.dev/</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/iOSDevSK/html2wp-app@main/src-tauri/icons/128x128.png</iconUrl>
+    <copyright>Copyright (c) 2026 BELNEM s.r.o.</copyright>
+    <licenseUrl>https://raw.githubusercontent.com/iOSDevSK/html2wp-app/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/iOSDevSK/html2wp-app</projectSourceUrl>
+    <docsUrl>https://html2wp.dev/docs/</docsUrl>
+    <bugTrackerUrl>https://github.com/iOSDevSK/html2wp-app/issues</bugTrackerUrl>
+    <tags>html2wp html wordpress wordpress-theme converter lovable bolt v0 docker</tags>
+    <summary>Turn an HTML site or a Lovable export into a WordPress theme</summary>
+    <description><![CDATA[html2wp converts a static website into a WordPress block theme. Choose the folder or ZIP of your site: an export from Lovable, Bolt or v0, a design built in Claude, or hand-written HTML. The app works out which page is the home page, the blog, an article or a product, and builds a theme that keeps your markup and styles. No page builder is involved.
+
+The conversion runs in Docker Desktop on your PC, with a temporary WordPress where the app installs the theme and checks it. The AI work runs on your own ChatGPT subscription, so you don't buy credits or tokens. Flash mode takes about half an hour. Full mode takes about an hour and fixes the errors its checks find.
+
+When it finishes, the Compare tab shows each original page next to its WordPress version, with the difference in percent. Type a change into the chat and the app makes it. Save the theme ZIP from the Exports tab and upload it in WordPress under Appearance > Themes. The blog becomes real WordPress posts. Forms, menus and SEO are part of the theme, so it needs no plugins. With a Pro licence, a shop becomes WooCommerce.
+
+## Requirements
+
+- Windows 10 or 11 (64-bit)
+- Docker Desktop with WSL 2 (the app offers to install it on first start)
+- A ChatGPT account
+
+## Licence
+
+Freemium. The free tier gives three conversions of up to five pages each for personal and non-commercial sites. Client work and commercial sites need a Pro subscription: https://html2wp.dev/pricing/
+
+The app installs per user and updates itself when a new signed release is out.
+]]></description>
+    <releaseNotes>Deleting a project now also removes its preview WordPress containers, including those left by earlier runs. Projects with a preview from an older version can be deleted, and their preview can be started again. https://github.com/iOSDevSK/html2wp-desktop-releases/releases/tag/v1.0.22</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
