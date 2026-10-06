@@ -4,7 +4,7 @@
     <id>html2wp</id>
     <version>1.0.22</version>
     <packageSourceUrl>https://github.com/iOSDevSK/html2wp-desktop-releases/tree/main/chocolatey</packageSourceUrl>
-    <owners>CHOCOLATEY_USERNAME</owners>
+    <owners>html2wp</owners>
     <title>html2wp</title>
     <authors>BELNEM s.r.o.</authors>
     <projectUrl>https://html2wp.dev/</projectUrl>
