@@ -1,10 +1,10 @@
 {
-  "version": "1.0.21",
-  "notes": "Signed by BELNEM s.r.o. (Authenticode, timestamped): Windows names the publisher instead of \"Unknown publisher\".",
+  "version": "1.0.22",
+  "notes": "Deleting a project removes all its preview WordPress containers, including those of earlier runs; projects with a preview from an older version can be deleted and their preview started again.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/iOSDevSK/html2wp-desktop-releases/releases/download/v1.0.21/html2wp_1.0.21_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaCtKV20rc1BqbllTWWhibnJYWHk0NGtQNjNtNEJ1bERYRGlGMmpSaDFIaWhxOFdBVzVDVlg3dzlQN0tvcUxlVjVVdmlyd0VtZEcxdjJaWFFVeFJ3dWFqaC9vdnBJTWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgyOTYxCWZpbGU6aHRtbDJ3cF8xLjAuMjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yMQpNWTdaMG5yTktqRExCaHYzSGhoaWlORkJXQkRJTW1rVXUydGpBdURwTzE5K1FyWElxOW4vMVYvZ05YTHRkU3o4UUcrd3VkYmk4T2pKQVdSTHd2b3NEdz09Cg=="
+      "url": "https://github.com/iOSDevSK/html2wp-desktop-releases/releases/download/v1.0.22/html2wp_1.0.22_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaCtKV20rc1BqblFKSVlNM1o2dHhEeDlGRjBuWllTdnFZelJZbm5qeVlmQnliWU12bkhmd1J2d0JTQVNMQTJhenVtUE5DYzZkV0dpbjZ2ZDdxUVBtNHYwcUJrUTJwU1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg1MzEwCWZpbGU6aHRtbDJ3cF8xLjAuMjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yMgptU1VmYk1NczlVQkJ1NXN2U0txYWRtL2FuellWSTJ6d3hvSEdWQUJsS3Vxc3B2WWdCSWhLcGZFT2xWUlFZQThYbDFxb2Q5M2FITlUvVW5SWFoxYVlBdz09Cg=="
     }
   }
 }
